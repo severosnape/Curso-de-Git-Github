@@ -1,6 +1,6 @@
 # Descrição
 - Curso de Git/Github
-# Alunos 1
+# Alunos
 - Severino
 # instrutor
 - Fabricio
