@@ -1,6 +1,6 @@
 # Alunos 1
 - Severino
-#instrutor
+# instrutor
 - Fabricio
 # Alunos 2
 # Alunos 3
